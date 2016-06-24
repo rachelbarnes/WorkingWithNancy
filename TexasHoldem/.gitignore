@@ -1,0 +1,14 @@
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.dll
+bin/*
+obj/*
+/*.suo
+/*.cache
+/*.force
+/obj/*
+/bin/*
+packages/*

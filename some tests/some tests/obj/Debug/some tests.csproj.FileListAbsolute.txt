@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\some tests\some tests\bin\Debug\some tests.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\some tests\some tests\bin\Debug\some tests.exe
+c:\users\administrator\documents\visual studio 2015\Projects\some tests\some tests\bin\Debug\some tests.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\some tests\some tests\bin\Debug\nunit.framework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\some tests\some tests\bin\Debug\nunit.framework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\some tests\some tests\obj\Debug\some tests.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\some tests\some tests\obj\Debug\some tests.exe
+c:\users\administrator\documents\visual studio 2015\Projects\some tests\some tests\obj\Debug\some tests.pdb

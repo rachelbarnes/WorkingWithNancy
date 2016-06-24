@@ -1,0 +1,24 @@
+﻿Texas Hold Em Poker: 
+
+Hand -> Player -> Game
+
+Objects: 
+Player (hand, money, bets of players)
+Money in Pot (collected money from players' bets; can i  do big and small blinds here?)
+Community Cards (with with dealer's shuffle Arlington was talking about, array of cards that increases in length each round)
+Game(has 4 rounds - do round objects first then refactor for a game object?)
+
+Game Rounds: Pre-Flop, Flop, Turn, River
+possible objects: 
+The Game itself doesn't need to have an object - this would be a huge object, which would make things unneedlessly complicated. The round title could be an argument for the game if that fits in the design, but the community cards, bets, players, etc. should all be their own constructed objects that the game uses. Keep things simple, and only go complicated when needed. 
+
+Player (contains the 2 cards in the hand, bets)
+Community Cards (this would be a good object, although some of the object's arguments would have to be null until the last round)
+
+
+Methods: 
+Money in the pot could be an aggregate of all of the bets that go around the table - an interface could be done with this; the interface could be implemented for the small blind bet, the big blind bet and any other regular bets that are on the table. 
+
+
+other information needed: 
+What makes the special types of cards (flushes, straights, etc.)

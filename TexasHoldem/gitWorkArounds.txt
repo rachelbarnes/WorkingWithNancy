@@ -1,0 +1,8 @@
+1) If .gitignore does not appear to work try the following (ensure you save your changes first)
+   git rm -r --cached .
+   git add .
+   git commit -m "fixed untracked files"
+
+2) To disable the crlf fatal warning:
+   git config core.autocrlf false
+   git config core.safecrlf false

@@ -1,0 +1,4 @@
+﻿Model: 
+	an object that represents the data in your application
+Controller: 
+	an object that handles HTTP requests

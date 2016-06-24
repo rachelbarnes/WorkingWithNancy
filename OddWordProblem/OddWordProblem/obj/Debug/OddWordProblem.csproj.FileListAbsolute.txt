@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\OddWordProblem\OddWordProblem\bin\Debug\OddWordProblem.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\OddWordProblem\OddWordProblem\bin\Debug\OddWordProblem.exe
+c:\users\administrator\documents\visual studio 2015\Projects\OddWordProblem\OddWordProblem\bin\Debug\OddWordProblem.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\OddWordProblem\OddWordProblem\bin\Debug\nunit.framework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\OddWordProblem\OddWordProblem\bin\Debug\nunit.framework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\OddWordProblem\OddWordProblem\obj\Debug\OddWordProblem.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\OddWordProblem\OddWordProblem\obj\Debug\OddWordProblem.exe
+c:\users\administrator\documents\visual studio 2015\Projects\OddWordProblem\OddWordProblem\obj\Debug\OddWordProblem.pdb

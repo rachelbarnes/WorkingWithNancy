@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\Calculator\bin\Debug\nunit.framework.dll
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\Calculator\bin\Debug\nunit.framework.xml
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\Users\Administrator\Documents\Visual Studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\RotateArrays\RotateArrays\bin\Debug\RotateArrays.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\RotateArrays\RotateArrays\bin\Debug\RotateArrays.exe
+c:\users\administrator\documents\visual studio 2015\Projects\RotateArrays\RotateArrays\bin\Debug\RotateArrays.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\RotateArrays\RotateArrays\bin\Debug\nunit.framework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\RotateArrays\RotateArrays\bin\Debug\nunit.framework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\RotateArrays\RotateArrays\obj\Debug\RotateArrays.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\RotateArrays\RotateArrays\obj\Debug\RotateArrays.exe
+c:\users\administrator\documents\visual studio 2015\Projects\RotateArrays\RotateArrays\obj\Debug\RotateArrays.pdb
